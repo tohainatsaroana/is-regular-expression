@@ -1,0 +1,30 @@
+{
+  "name": "is-regular-expression",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://github.com/tohainatsaroana/is-regular-expression",
+  "scripts": {
+    "test": "xo && ava && tsd"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "keywords": [],
+  "author": {
+    "name": "Tohaina",
+    "email": "tohainatsaroana@gmail.com"
+  },
+  "type": "module",
+  "exports": "./index.js",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^4.2.0",
+    "tsd": "^0.20.0",
+    "xo": "^0.48.0"
+  },
+  "dependencies": {
+    "tlds": "^1.231.0"
+  }
+}
