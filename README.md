@@ -1,4 +1,4 @@
-# ip-regex
+# is-regular-expression for IP addresses
 
 > Regular expression for matching IP addresses
 ## Install
